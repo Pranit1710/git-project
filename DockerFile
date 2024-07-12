@@ -1,1 +1,6 @@
 open jdk 
+Types of changes:
+1. untracked - new files that git doesn't yet track.
+2. modified - changed.
+3. staged - file is ready to be commited
+4. unmodified - unchanged
